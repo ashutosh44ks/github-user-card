@@ -1,3 +1,25 @@
+# GitHub User Card
+
+## About the project -
+
+It shows a card with the user's GitHub public information.
+The username is inputted through an input tag in the header.
+- Displayed information includes
+- Avatar Image
+- Username
+- Name
+- No. of public repos
+- No. of public gists
+- Profile created at in time format of YYYY-MM-DD.
+
+The API used is ```GET - https://api.github.com/users/{username}```
+The app is fully responsive.
+
+## Tech Stack Used -
+React JS + Tailwind CSS
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
